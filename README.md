@@ -97,4 +97,10 @@ Computer Science Student | Aspiring Data Analyst
 
 ⭐ Note
 
+<<<<<<< HEAD
 This project is part of a Capstone Project – Mutual Fund Analytics.
+=======
+This project is part of a Capstone Project – Mutual Fund Analytics.
+
+linkedin profile : https://www.linkedin.com/in/azhar-mohammad69
+>>>>>>> bffa4613fa065e2ea2141b32b9eb1abeebf47e30
